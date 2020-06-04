@@ -18,4 +18,6 @@ The tenth column is for specifying the movement.
 The code merges datasets of different subjects as per the choice of user.
 Merged data is the separated in training and testing sets and the accuracy is checked for KNN, SVM and Naive Bayes.
 
+KNN displayed highest accuracy on the raw data at 96.7%
+
 
